@@ -93,3 +93,4 @@ Scalability: Pipelining is RSVP implemented in different types of processors hen
 
 ##output
 
+<img width="431" alt="Image" src="https://github.com/user-attachments/assets/154276e6-4d60-42f6-8cd3-8e2e1a633952" />
