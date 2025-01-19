@@ -42,24 +42,18 @@ MarkDown
 |  Instruction  |
 |  Fetch (IF)   |
 
-       |
-       |
-       v
+       
 
 | Instruction  |
 | Decode/Register|
 | Fetch (ID)    |
 
-       |
-       |
-       v
+     
 
 |     Execution  |
 |     (EX)       |
 
-       |
-       |
-       v
+       
 
 |  Write Back   |
 |  (WB)          |
