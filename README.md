@@ -14,6 +14,15 @@
 
 **Description**
 
+Developed during the Fall 2017 Computer Architecture Laboratory course at the University of Tehran, 
+this project is an implementation of a pipelined MIPS processor featuring hazard detection as well as forwarding.
+This implementation is based on a limited ISA, the details for which are present in `docs/MIPS_ISA.png`.
+This code is synthesizable and can be run on an FPGA. We used Altera DE2 units for testing purposes. The implemtation has been verified using a relatively complex test program (found in `instructions/example_source_code.txt`).
+
+![MIPS pipelened processor](https://github.com/mhyousefi/MIPS-pipeline-processor/blob/master/docs/MIPS_diagram.png?raw=true)
+
+
+
 **Designing a 4-Stage Pipelined Processor**
 
 Here's a basic design for a 4-stage pipelined processor that supports instructions like ADD, SUB, and LOAD.
